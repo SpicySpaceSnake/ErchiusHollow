@@ -1,0 +1,22 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "maxFuel" : 1000,
+      "crewSize" : 12
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "erchiushollowT8.png",
+      "position" : [8.39, 1.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "erchiushollowT8lit.png",
+      "position" : [8.39, 1.75]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "erchiushollowT8blocks.png"
+}

@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/erchiushollow",
+		"value" : [
+		    "/ships/erchiushollow/erchiushollowt0.structure",
+			"/ships/erchiushollow/erchiushollowt1.structure",
+			"/ships/erchiushollow/erchiushollowt2.structure",
+			"/ships/erchiushollow/erchiushollowt3.structure",
+			"/ships/erchiushollow/erchiushollowt4.structure",
+			"/ships/erchiushollow/erchiushollowt5.structure",
+			"/ships/erchiushollow/erchiushollowt6.structure",
+			"/ships/erchiushollow/erchiushollowt7.structure",
+			"/ships/erchiushollow/erchiushollowt8.structure"
+		]
+	}
+]

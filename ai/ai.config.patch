@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/erchiushollow",
+		"value" : {
+			"aiFrames" : "erchiushollowAI.png",
+			"portraitFrames" : "portraits/erchiushollowportrait.png",
+			"staticFrames" : "staticerchiushollow.png"	
+		}
+	}
+]

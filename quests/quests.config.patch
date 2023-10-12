@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/erchiushollow",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/erchiushollow",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
