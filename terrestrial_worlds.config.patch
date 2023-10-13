@@ -1,0 +1,30 @@
+[
+	{
+        "op": "add",
+        "path": "/planetTypes/ehr_erchiusglitterworld",
+        "value": {
+            "threatRange": [5, 6],
+            "layers": {
+                "surface": {
+                    "primaryRegion": ["ehr_erchiusglitterworld"],
+                    "secondaryRegions" : []
+                }
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/regionTypes/ehr_erchiusglitterworld",
+        "value": {
+            "caveLiquid": ["fuel"],
+            "caveLiquidChanceRange": [20, 100],
+            "blockSelector": [ "lowHillsSurface" ],
+            "fgCaveSelector": ["surfaceCaves"],
+            "bgOreSelector": ["normalVeins", "richVeins"],
+            "biome": [
+                [0, ["ehr_erchiusglitterworld"]]
+				],
+			"subRegion" : [ ]
+		}
+    }
+]
