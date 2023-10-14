@@ -3,68 +3,7 @@
   "friendlyName" : "Erchius Glitterworld",
 
   "spawnProfile" : {
-    "groups" : [
-        {
-        "select" : 1,
-        "pool" : [
-          [ 0.1111, "skimbus" ],
-          [ 0.1111, "scandroid" ],
-          [ 0.1111, "voltip" ],
-          [ 0.1111, "oculob" ],
-          [ 0.1111, "paratail" ],
-          [ 0.1111, "petricub" ],
-          [ 0.1111, "smoglin" ],
-          [ 0.1111, "scaveran" ]
-        ]
-      },
-      {
-        "select" : 1,
-        "pool" : [
-          [ 0.4, "xenofly" ],
-          [ 0.3, "hivehog" ],
-          [ 0.3, "shellcreep" ]
-        ]
-      },
-      {
-        "select" : 1,
-        "pool" : "generatedGroundAggroDay"
-      }, 
-      {
-        "select" : 3,
-        "pool" : "nightTerrors"
-      },      
-      {
-        "select" : 2,
-        "pool" : "generatedGround"
-      },
-      {
-        "select" : 2,
-        "pool" : "generatedFlying"
-      },
-      {
-        "select" : 2,
-        "pool" : [
-          [ 1, "sackbagcritter" ],
-          [ 1, "bouncebagcritter" ],
-          [ 1, "floatbagcritter" ],
-          [ 1, "snooglecritter" ],
-          [ 1, "symbiotecritter" ]
-        ]
-      }
-    ],
-    "monsterParameters" : {
-      "colors" : "alien",
-      "statusSettings" : {
-        "stats" : {
-          "poisonStatusImmunity" : {
-            "baseValue" : 1.0
-          }
-        }
-      }
-    }
   },
-
-  "statusEffects" : [ "biomeradiation" ],
 
   "hueShiftOptions" : [-15, 0, 15],
 
@@ -147,7 +86,7 @@
     }
   ],
 
-  "mainBlock" : "alienrock",
+  "mainBlock" : "supermatter",
   "subBlocks" : [ "dirt" ],
   "ores" : "surface",
 
@@ -172,9 +111,6 @@
   },
 
   "surfacePlaceables" : {
-    "grassMod" : [ "aliengrass" ],
-    "grassModDensity" : 0.9,
-
     "items" : [
       {
         "mode" : "floor",
@@ -281,9 +217,6 @@
   },
 
   "undergroundPlaceables" : {
-    "grassMod" : [ "aliengrass" ],
-    "grassModDensity" : 0.2,
-
     "items" : [
       {
         "mode" : "floor",
