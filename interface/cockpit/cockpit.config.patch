@@ -1,13 +1,4 @@
-//updated format for 1.0
 [
-	{
-	"op": "add",
-	"path": "/visitableTypeDescription/ehr_erchiusglitterworld",
-	"value": [
-		"This planet has been entirely overrun by some sort of ^#ba52e4;erchius infection^reset;, the likes of which I have no records of. The result is an ^red;exceedingly dangerous^reset; planet-wide biome - tread with care, or you may too be consumed.",
-		"An ^#ba52e4;erchius infection^reset; ravages the planet and subsumes anything that comes nearby. The development is recent and my acquired data is limited, and I can only confidently advise that the transformed climate is now ^red;incredibly hostile^reset;.",
-		"An aptly named crystallized and ^#ba52e4;infected^reset; planet that glows with a sickly magenta light. Both the surface and substratum are teeming with converted ^#ba52e4;erchius-like^reset; lifeforms, combining with the planet’s natural energy to create an ^red;exceptionally deadly^reset; environment."] 
-	},
 	{
 	"op": "add",
 	"path": "/planetTypeNames/ehr_erchiusglitterworld",
@@ -16,6 +7,14 @@
 	{
 	"op": "add",
 	"path": "/planetTypeColors/ehr_erchiusglitterworld",
-	"value": [186, 82, 228]
+	"value": [247, 178, 239]
+	},
+	{
+	"op": "add",
+	"path": "/visitableTypeDescription/ehr_erchiusglitterworld",
+	"value": [
+		"This planet has been entirely overrun by some sort of ^#ba52e4;erchius infection^reset;, the likes of which I have no records of. The result is an ^red;exceedingly dangerous^reset; planet-wide biome - tread with care, or you may too be consumed.",
+		"An ^#ba52e4;erchius infection^reset; ravages the planet and subsumes anything that comes nearby. The development is recent and my acquired data is limited, and I can only confidently advise that the transformed climate is now ^red;incredibly hostile^reset;.",
+		"An aptly named crystallized and ^#ba52e4;infected^reset; planet that glows with a sickly magenta light. Both the surface and substratum are teeming with converted ^#ba52e4;erchius-like^reset; lifeforms, combining with the planet’s natural energy to create an ^red;exceptionally deadly^reset; environment."] 
 	}
 ]
