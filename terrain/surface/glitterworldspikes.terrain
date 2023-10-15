@@ -1,0 +1,70 @@
+{
+  "name" : "glitterworldspikes",
+
+  "type" : "rotate",
+
+  "rotation" : 0.6,
+
+  "source" : {
+    //jaggy spikes
+    "type" : "displacement",
+    "xType" : "perlin",
+    "xOctaves" : 1,
+    "xFreq" : 0.02,
+    "xAmp" : 60,
+    "yType" : "perlin",
+    "yOctaves" : 3,
+    "yFreq" : 0.01,
+    "yAmp" : 2000,
+    "yBias" : 5,
+    "yClamp" : [-60, 5],
+    "yClampSmoothing" : 6,
+    "yYInfluence" : 0,
+
+    "source" : {
+    //jaggy spikes
+    "type" : "displacement",
+    "xType" : "perlin",
+    "xOctaves" : 1,
+    "xFreq" : 0.02,
+    "xAmp" : 60,
+    "yType" : "perlin",
+    "yOctaves" : 3,
+    "yFreq" : 0.01,
+    "yAmp" : 2000,
+    "yBias" : 5,
+    "yClamp" : [-60, 5],
+    "yClampSmoothing" : 6,
+    "yYInfluence" : 0,
+
+      "source" : {
+        "type" : "rotate",
+
+        "rotation" : -0.6,
+
+        "source" : {
+    //jaggy spikes
+    "type" : "displacement",
+    "xType" : "perlin",
+    "xOctaves" : 1,
+    "xFreq" : 0.02,
+    "xAmp" : 60,
+    "yType" : "perlin",
+    "yOctaves" : 3,
+    "yFreq" : 0.01,
+    "yAmp" : 2000,
+    "yBias" : 5,
+    "yClamp" : [-60, 5],
+    "yClampSmoothing" : 6,
+    "yYInfluence" : 0,
+
+          "source" : {
+            "type" : "flatSurface",
+
+            "adjustment" : 0
+          }
+        }
+      }
+    }
+  }
+}

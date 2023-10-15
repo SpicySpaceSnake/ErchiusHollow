@@ -18,7 +18,7 @@
         "value": {
             "caveLiquid": ["fuel"],
             "caveLiquidChanceRange": [20, 100],
-            "blockSelector": [ "lowHillsSurface" ],
+            "blockSelector": [ "glitterworldspikes" ],
             "fgCaveSelector": ["surfaceCaves"],
             "bgOreSelector": ["normalVeins", "richVeins"],
             "biome": [
