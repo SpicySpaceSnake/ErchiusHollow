@@ -1,11 +1,12 @@
 {
-  "tags" : "Species",
-  "author" : "DrPvtSkittles",
-  "description" : "Basic Template to create your own race.",
-  "friendlyName" : "Skittles Basic Race Template",
-  "link" : "",
-  "name" : "Skittles Basic Race Template",
-  "path" : ".",
+  "name" : "erchiushollow",
+  "friendlyName" : "Erchius Outbreak",
+  "version" : "0.1.0",
+  "author" : "SpicySpaceSnake, Dyalt",
+  "tags" : "Armor and Clothes|Crafting and Building|Dungeons|Furniture and Objects|Mechanics|NPCs and Creatures|Planets and Environments|Quests|Ships|Species|Vehicles and Mounts|Weapons",
+  "description" : "Part race mod, part content mod, all for Starbound. Heavily erchius-themed, adding a new playable and NPC race, a themed outpost, many quests, and fun gear to play with, all wrapped up with rich lore for the erchius enthusiast.",
+  "priority" : 0,
+  "includes" : [""],
   "steamContentId" : "",
-  "version" : "1"
+  "link" : ""
 }
