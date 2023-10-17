@@ -1,4 +1,5 @@
 [
+		//      Erchius Glitterworld      //
   {
     "op" : "add",
     "path" : "/terrestrialHorizonGraphics/ehr_erchiusglitterworld",
@@ -9,8 +10,7 @@
       "maskPerPlanetRange" : [3, 3]
       }
   },
-
-  {
+   {
     "op" : "add",
     "path" : "/terrestrialGraphics/ehr_erchiusglitterworld",
     "value" : {
@@ -24,5 +24,29 @@
     "op" : "add",
     "path" : "/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
     "value" : "ehr_erchiusglitterworld"
+	},
+		//      Tumorous Lunar      //
+  {
+    "op" : "add",
+    "path" : "/terrestrialHorizonGraphics/ehr_tumormoon",
+    "value" : {
+      "baseImages" : "/celestial/system/terrestrial/horizon/textures/moon_<selector>.png",
+      "maskPerPlanetRange" : [0, 0]
+    }
+  },
+   {
+    "op" : "add",
+    "path" : "/terrestrialGraphics/ehr_tumormoon",
+    "value" : {
+      "baseImages" : "/celestial/system/terrestrial/biomes/moon/maskie<num>.png",
+      "dynamicsImages" : "/celestial/system/terrestrial/dynamics/arid/<num>.png",
+      "dynamicsRange" : [1, 50]
+    }
+  },
+	{
+    "op" : "add",
+    "path" : "/satelliteTypes/Moon/baseParameters/terrestrialType/-",
+    "value" : "ehr_tumormoon"
 	}
+		//      Erchius Deadworld      //
 ]

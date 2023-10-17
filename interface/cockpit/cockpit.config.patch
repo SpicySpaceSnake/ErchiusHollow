@@ -1,4 +1,5 @@
 [
+		//      Erchius Glitterworld      //
 	{
 	"op": "add",
 	"path": "/planetTypeNames/ehr_erchiusglitterworld",
@@ -13,8 +14,28 @@
 	"op": "add",
 	"path": "/visitableTypeDescription/ehr_erchiusglitterworld",
 	"value": [
-		"This planet has been entirely overrun by some sort of ^#ba52e4;erchius infection^reset;, the likes of which I have no records of. The result is an ^red;exceedingly dangerous^reset; planet-wide biome - tread with care, or you may too be consumed.",
-		"An ^#ba52e4;erchius infection^reset; ravages the planet and subsumes anything that comes nearby. The development is recent and my acquired data is limited, and I can only confidently advise that the transformed climate is now ^red;incredibly hostile^reset;.",
-		"An aptly named crystallized and ^#ba52e4;infected^reset; planet that glows with a sickly magenta light. Both the surface and substratum are teeming with converted ^#ba52e4;erchius-like^reset; lifeforms, combining with the planet’s natural energy to create an ^red;exceptionally deadly^reset; environment."] 
+    "This planet has been entirely overrun by some sort of ^#ba52e4;erchius infection^white;, the likes of which I have no records of. The result is an ^red;exceedingly dangerous^white; planet-wide biome - tread with care, or you may too be consumed.",
+    "An ^#ba52e4;erchius infection^white; ravages the planet and subsumes anything that comes nearby. The development is recent and my acquired data is limited, and I can only confidently advise that the transformed climate is now ^red;incredibly hostile^white;.",
+    "An aptly named crystallized and ^#ba52e4;infected^white; planet that glows with a sickly magenta light. Both the surface and substratum are teeming with converted ^#ba52e4;erchius-like^white; lifeforms, combining with the planet’s natural energy to create an ^red;exceptionally deadly^white; environment."]
+	},
+		//      Tumorous Lunar      //
+	{
+	"op": "add",
+	"path": "/planetTypeNames/ehr_tumormoon",
+	"value": "Lunar Tumor"
+	},
+	{
+	"op": "add",
+	"path": "/planetTypeColors/ehr_tumormoon",
+	"value": [133, 104, 139]
+	},
+	{
+	"op": "add",
+	"path": "/visitableTypeDescription/ehr_tumormoon",
+	"value": [
+    "This ^#ba52e4;unusual ^#949493;moon^white; supports no life and has ^red;no atmosphere^white;. Fuel is overly abundant here - scans indicate that there is a wealth of it buried below the surface. The planet radiates elevated levels of energy.",
+    "This vacant ^#ba52e4;warped ^#949493;moon^white; has ^red;no breathable atmosphere^white;, but there are caverns below ground that contain expansive fuel deposits. Energy levels are higher than most moons, and dangerous lifeforms are detected.",
+    "A ^#ba52e4;peculiar ^#949493;moon^white; with ^red;no breathable atmosphere^white;; the sky is open to the stars, and there is much fuel below the ground. Scans return strange readings - you will not be alone."]
 	}
+		//      Erchius Deadworld      //
 ]
