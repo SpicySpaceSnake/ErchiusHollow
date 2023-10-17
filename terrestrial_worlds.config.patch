@@ -1,4 +1,5 @@
 [
+		//      Erchius Glitterworld      //
 	{
         "op": "add",
         "path": "/planetTypes/ehr_erchiusglitterworld",
@@ -26,5 +27,36 @@
 				],
 			"subRegion" : [ ]
 		}
+    },
+		//      Tumorous Lunar      //
+	{
+        "op": "add",
+        "path": "/planetTypes/ehr_tumormoon",
+        "value": {
+			"gravityRange" : [20, 20],
+            "threatRange": [1, 1],
+            "layers": {
+                "surface": {
+                    "primaryRegion": ["ehr_tumormoon"],
+                    "secondaryRegions" : []
+                }
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/regionTypes/ehr_tumormoon",
+        "value": {
+            "caveLiquid": ["fuel"],
+            "caveLiquidChanceRange": [20, 100],
+			"blockSelector" : [ "remixedSurface" ],
+			"fgCaveSelector" : [ "moonSurfaceCaves" ],
+			"bgCaveSelector" : [ "empty" ],
+            "biome": [
+                [0, ["ehr_tumormoon"]]
+				],
+			"subRegion" : [ ]
+		}
     }
+		//      Erchius Deadworld      //
 ]
