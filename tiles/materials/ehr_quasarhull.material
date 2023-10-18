@@ -5,7 +5,7 @@
   "itemDrop" : "ehr_quasarhull",
 
   "shortdescription" : "Hull Panel",
-  "description" : "Robust exterior paneling used by the Quasar Initiative, mostly for space station and ship construction.",
+  "description" : "Robust exterior paneling used by the Quasar Initiative for space station and ship construction.",
   //"apexDescription" : "words",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 24,
