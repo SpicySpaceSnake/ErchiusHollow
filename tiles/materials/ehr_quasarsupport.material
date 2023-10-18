@@ -15,7 +15,7 @@
     "texture" : "ehr_quasarsupport.png",
     "variants" : 1,
     "lightTransparent" : false,
-    "occludesBelow" : true,
+    "occludesBelow" : false,
     "multiColored" : true,
     "zLevel" : 2770
   }
