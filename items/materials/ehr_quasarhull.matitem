@@ -3,10 +3,10 @@
   "inventoryIcon" : "ehr_quasarhull.png",
   "category" : "block",
   "shortdescription" : "Quasar Hull Panel",
-  "description" : "Robust exterior paneling used by the Quasar Initiative, mostly for space station and ship construction.",
+  "description" : "Robust exterior paneling used by the Quasar Initiative for space station and ship construction.",
   "rarity" : "Common",
   "price" : 0,
-  "tooltipKind" : "codex",
+  "tooltipKind" : "object",
 
   "materialId" : 37101,
   "learnBlueprintsOnPickup" : [ "ehr_quasarhull" ]
