@@ -1,0 +1,12 @@
+{
+  "itemName" : "ehr_quasarsupport",
+  "inventoryIcon" : "ehr_quasarsupport.png",
+  "category" : "block",
+  "shortdescription" : "Quasar Support Beam",
+  "description" : "A reinforced wall-mounted beam used by the Quasar Initiative, designed for pressurized environments.",
+  "rarity" : "Common",
+  "price" : 0,
+
+  "materialId" : 37104,
+  "learnBlueprintsOnPickup" : [ "ehr_quasarsupport" ]
+}
