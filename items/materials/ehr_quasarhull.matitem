@@ -6,7 +6,7 @@
   "description" : "Robust exterior paneling used by the Quasar Initiative, mostly for space station and ship construction.",
   "rarity" : "Common",
   "price" : 0,
-  "tooltipKind" : "object",
+  "tooltipKind" : "codex",
 
   "materialId" : 37101,
   "learnBlueprintsOnPickup" : [ "ehr_quasarhull" ]
