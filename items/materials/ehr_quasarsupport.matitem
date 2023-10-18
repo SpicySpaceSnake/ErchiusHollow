@@ -6,6 +6,7 @@
   "description" : "A reinforced wall-mounted beam used by the Quasar Initiative, designed for pressurized environments.",
   "rarity" : "Common",
   "price" : 0,
+  "tooltipKind" : "object",
 
   "materialId" : 37104,
   "learnBlueprintsOnPickup" : [ "ehr_quasarsupport" ]
