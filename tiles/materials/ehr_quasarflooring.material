@@ -13,7 +13,7 @@
   "renderTemplate" : "/tiles/rowtemplate.config",
   "renderParameters" : {
     "texture" : "ehr_quasarflooring.png",
-    "variants" : 3,
+    "variants" : 1,
     "lightTransparent" : false,
     "occludesBelow" : false,
     "multiColored" : true,
