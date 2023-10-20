@@ -7,7 +7,7 @@
   "shortdescription" : "Hull Panel",
   "description" : "Robust exterior paneling used by the Quasar Initiative for space station and ship construction.",
   //"apexDescription" : "words",
-  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
   "health" : 24,
   "category" : "materials",
 
