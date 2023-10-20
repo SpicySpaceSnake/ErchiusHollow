@@ -1,0 +1,12 @@
+{
+  "itemName" : "ehr_quasarflooring",
+  "inventoryIcon" : "ehr_quasarflooring.png",
+  "category" : "block",
+  "shortdescription" : "Quasar Flooring",
+  "description" : "Metal flooring used by the Quasar Initiative to line the insides of their structures.",
+  "rarity" : "Common",
+  "price" : 0,
+
+  "materialId" : 37103,
+  "learnBlueprintsOnPickup" : [ "ehr_quasarflooring" ]
+}
