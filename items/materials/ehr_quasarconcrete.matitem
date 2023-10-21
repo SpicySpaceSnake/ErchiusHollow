@@ -1,0 +1,13 @@
+{
+  "itemName" : "ehr_quasarconcrete",
+  "inventoryIcon" : "ehr_quasarconcrete.png",
+  "category" : "block",
+  "shortdescription" : "Quasar Concrete Brick",
+  "description" : "Carved and brittle concrete bricks used by the Quasar Initiative, primarily for interiors.",
+  "rarity" : "Common",
+  "price" : 0,
+  "tooltipKind" : "object",
+
+  "materialId" : 37102,
+  "learnBlueprintsOnPickup" : [ "ehr_quasarconcrete" ]
+}

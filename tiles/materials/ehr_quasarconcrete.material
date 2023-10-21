@@ -1,0 +1,22 @@
+{
+  "materialId" : 37102,
+  "materialName" : "ehr_quasarconcrete",
+  "particleColor" : [93, 93, 89, 255],
+  "itemDrop" : "ehr_quasarconcrete",
+  "description" : "Carved and brittle concrete bricks used by the Quasar Initiative, primarily for interiors.",
+  "shortdescription" : "Quasar Concrete Brick",
+  //"apexDescription" : "words",
+  "footstepSound" : "/sfx/blocks/footstep_stone.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "ehr_quasarconcrete.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 2690
+  }
+}
