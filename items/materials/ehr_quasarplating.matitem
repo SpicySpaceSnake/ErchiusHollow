@@ -2,7 +2,7 @@
   "itemName" : "ehr_quasarplating",
   "inventoryIcon" : "ehr_quasarplating.png",
   "category" : "block",
-  "shortdescription" : "Quasar Concrete Brick",
+  "shortdescription" : "Quasar Plating",
   "description" : "Thin composite wall paneling used by the Quasar Initiative. Cheap detailing, and helps hide wires.",
   "rarity" : "Common",
   "price" : 0,
