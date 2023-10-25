@@ -22,7 +22,7 @@ And now, here you stand, at the brink of either apotheosis or extinction. Whethe
 * Ancient, Erchius, and Quasar-themed cosmetics
 * A racial progression system, unlocked by default for the mod's races and unlockable for everyone else
 * Custom collection entries for the mod's unique monsters and bugs
-* New augments and a fifth EPP tier, along with a new multi-level hazard type
+* New augments and EPPs, along with new multi-level hazard types
 * Several new NPCs to talk to and buy from
 * An expansive block and object list for the aspiring or experienced builder
 * Mysterious new microdungeons
