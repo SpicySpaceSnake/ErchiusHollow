@@ -1,14 +1,21 @@
 {
   "materialId" : 37107,
   "materialName" : "ehr_quasarglassreinforced",
-  "particleColor" : [89, 137, 138, 255],
   "itemDrop" : "ehr_quasarglassreinforced",
   "description" : "Tinted mesh-protected glass used by the Quasar Initiative when normal glass just doesn't cut it.",
   "shortdescription" : "Quasar Reinforced Glass",
-  // "apexDescription" : "words",
   "footstepSound" : "/sfx/blocks/footstep_crystal.ogg",
   "health" : 4,
+  "particleColor" : [89, 137, 138, 255],
   "category" : "materials",
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {

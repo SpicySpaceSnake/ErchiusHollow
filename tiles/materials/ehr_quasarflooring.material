@@ -1,14 +1,21 @@
 {
   "materialId" : 37103,
   "materialName" : "ehr_quasarflooring",
-  "particleColor" : [89, 137, 138, 255],
   "itemDrop" : "ehr_quasarflooring",
   "shortdescription" : "Quasar Flooring",
   "description" : "Metal flooring used by the Quasar Initiative to line the insides of their structures.",
-  //"apexDescription" : "words",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 14,
+  "particleColor" : [89, 137, 138, 255],
   "category" : "materials",
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
 
   "renderTemplate" : "/tiles/rowtemplate.config",
   "renderParameters" : {

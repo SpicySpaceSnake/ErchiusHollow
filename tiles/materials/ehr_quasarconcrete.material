@@ -1,14 +1,21 @@
 {
   "materialId" : 37102,
   "materialName" : "ehr_quasarconcrete",
-  "particleColor" : [93, 93, 89, 255],
   "itemDrop" : "ehr_quasarconcrete",
-  "description" : "Thick concrete bricks used by the Quasar Initiative as a basic foundation material.",
   "shortdescription" : "Quasar Concrete Brick",
-  //"apexDescription" : "words",
+  "description" : "Thick concrete bricks used by the Quasar Initiative as a basic foundation material.",
   "footstepSound" : "/sfx/blocks/footstep_stone.ogg",
   "health" : 10,
+  "particleColor" : [93, 93, 89, 255],
   "category" : "materials",
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {

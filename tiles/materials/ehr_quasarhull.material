@@ -1,15 +1,21 @@
 {
   "materialId" : 37101,
   "materialName" : "ehr_quasarhull",
-  "particleColor" : [89, 137, 138, 255],
   "itemDrop" : "ehr_quasarhull",
-
   "shortdescription" : "Hull Panel",
   "description" : "Robust exterior paneling used by the Quasar Initiative for space station and ship construction.",
-  //"apexDescription" : "words",
   "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
   "health" : 24,
+  "particleColor" : [89, 137, 138, 255],
   "category" : "materials",
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
 
   "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
   "renderParameters" : {

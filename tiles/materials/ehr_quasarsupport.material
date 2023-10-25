@@ -1,14 +1,21 @@
 {
   "materialId" : 37104,
   "materialName" : "ehr_quasarsupport",
-  "particleColor" : [89, 137, 138, 255],
   "itemDrop" : "ehr_quasarsupport",
   "shortdescription" : "Quasar Support Beam",
   "description" : "A reinforced wall-mounted beam used by the Quasar Initiative, designed for pressurized environments.",
-  //"apexDescription" : "words",
   "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
   "health" : 14,
+  "particleColor" : [89, 137, 138, 255],
   "category" : "materials",
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
 
   "renderTemplate" : "/tiles/columntemplate.config",
   "renderParameters" : {
