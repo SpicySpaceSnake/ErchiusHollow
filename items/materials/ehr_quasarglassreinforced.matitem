@@ -1,0 +1,13 @@
+{
+  "itemName" : "ehr_quasarglassreinforced",
+  "inventoryIcon" : "ehr_quasarglassreinforced.png",
+  "category" : "block",
+  "shortdescription" : "Quasar Reinforced Glass",
+  "description" : "Tinted mesh-protected glass used by the Quasar Initiative when normal glass just doesn't cut it.",
+  "rarity" : "Common",
+  "price" : 0,
+  "tooltipKind" : "object",
+
+  "materialId" : 37107,
+  "learnBlueprintsOnPickup" : [ "ehr_quasarglassreinforced" ]
+}
