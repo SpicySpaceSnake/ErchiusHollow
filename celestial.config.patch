@@ -25,6 +25,95 @@
     "path" : "/planetaryTypes/Tier6/baseParameters/terrestrialType/-",
     "value" : "ehr_erchiusglitterworld"
 	},
+	{
+    "op" : "add",
+    "path" : "/planetaryTypes/Glitterworld",
+    "value" : {
+      "satelliteProbability" : 0.0,
+	  "maxSatelliteCount" : 0,
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Hella wild and wacky crystalline planet",
+        "terrestrialType" : [ "ehr_erchiusglitterworld" ]
+      },
+      "variationParameters" : [
+        {
+          "imageScale" : 0.125,
+          "smallImageScale" : 0.6,
+          "worldSize" : "large"
+        },
+        {
+          "imageScale" : 0.145,
+          "smallImageScale" : 0.7,
+          "worldSize" : "large"
+				}
+			]
+		}
+	},
+		//      Erchius Orbit Regions - Orange      //
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Orange/orbitRegions/0/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Orange/orbitRegions/1/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Orange/orbitRegions/2/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+		//      Erchius Orbit Regions - Yellow      //
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Yellow/orbitRegions/0/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Yellow/orbitRegions/1/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Yellow/orbitRegions/2/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+		//      Erchius Orbit Regions - Blue      //
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Blue/orbitRegions/0/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Blue/orbitRegions/1/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Blue/orbitRegions/2/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+		//      Erchius Orbit Regions - Red      //
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Red/orbitRegions/0/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Red/orbitRegions/1/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
+	{
+	  "op" : "add",
+	  "path" : "/systemTypes/Red/orbitRegions/2/satelliteTypes",
+	  "value" :  [{"weight" : 0.2, "item" : "LunarTumor"}, {"weight" : 1, "item" : "Moon"}]
+	},
 		//      Tumorous Lunar      //
   {
     "op" : "add",
@@ -33,20 +122,40 @@
       "baseImages" : "/celestial/system/terrestrial/horizon/textures/moon_<selector>.png",
       "maskPerPlanetRange" : [0, 0]
     }
-  },
-   {
+	},
+	{
     "op" : "add",
     "path" : "/terrestrialGraphics/ehr_tumormoon",
     "value" : {
       "baseImages" : "/celestial/system/terrestrial/biomes/moon/maskie<num>.png",
       "dynamicsImages" : "/celestial/system/terrestrial/dynamics/arid/<num>.png",
       "dynamicsRange" : [1, 50]
-    }
-  },
+		}
+	},
 	{
     "op" : "add",
-    "path" : "/satelliteTypes/Moon/baseParameters/terrestrialType/-",
-    "value" : "ehr_tumormoon"
+    "path" : "/satelliteTypes/LunarTumor",
+    "value" : {
+      "baseParameters" : {
+        "worldType" : "Terrestrial",
+        "description" : "Unstandard Moon",
+        "terrestrialType" : [ "ehr_tumormoon" ]
+      },
+      "variationParameters" : [
+        {
+          "imageScale" : 0.035,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.045,
+          "worldSize" : "small"
+        },
+        {
+          "imageScale" : 0.055,
+          "worldSize" : "small"
+				}
+			]
+		}
 	}
 		//      Erchius Deadworld      //
 ]

@@ -1,0 +1,48 @@
+{
+  "objectName" : "ehr_stationlighth",
+  "race" : "generic",
+  "colonyTags" : ["ehr_quasar","light"],
+  "category" : "light",
+  "shortdescription" : "Quasar Station Light",
+  "description" : "A long horizontal fluorescent light used by the Quasar Initiative.",
+  "rarity" : "Common",
+  "price" : 85,
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
+
+  "lightColor" : [155, 244, 247],
+
+  "inventoryIcon" : "ehr_stationlighth_icon.png",
+  "orientations" : [
+    {
+      "image" : "ehr_stationlighth.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglefgfullbright.animation",
+  "animationParts" : {
+    "bg" : "ehr_stationlighth.png",
+    "fg" : "ehr_stationlighth_fb.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+}
