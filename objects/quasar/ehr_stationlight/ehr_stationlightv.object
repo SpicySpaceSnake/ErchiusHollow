@@ -4,7 +4,7 @@
   "colonyTags" : ["ehr_quasar","light"],
   "category" : "light",
   "shortdescription" : "Quasar Station Light",
-  "description" : "A long vertical fluorescent light used by the Quasar Initiative.",
+  "description" : "A long vertical fluorescent light. Oddly elegant for a space station.",
   "rarity" : "Common",
   "price" : 85,
 
@@ -16,7 +16,7 @@
   //"hylotlDescription" : "words",
   //"novakidDescription" : "words",
 
-  "lightColor" : [155, 244, 247],
+  "lightColor" : [255, 240, 185],
 
   "inventoryIcon" : "ehr_stationlightv_icon.png",
   "orientations" : [

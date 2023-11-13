@@ -1,0 +1,29 @@
+{
+  "materialId" : 37108,
+  "materialName" : "ehr_quasarplating",
+  "itemDrop" : "ehr_quasarplating",
+  "shortdescription" : "Quasar Plating",
+  "description" : "Thin composite wall paneling used by the Quasar Initiative. Cheap detailing, and helps hide wires.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 8,
+  "particleColor" : [89, 137, 138, 255],
+  "category" : "materials",
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "ehr_quasarplating.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 2630
+  }
+}

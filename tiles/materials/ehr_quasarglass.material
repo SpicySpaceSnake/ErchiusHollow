@@ -1,0 +1,29 @@
+{
+  "materialId" : 37105,
+  "materialName" : "ehr_quasarglass",
+  "itemDrop" : "ehr_quasarglass",
+  "shortdescription" : "Quasar Glass",
+  "description" : "Tinted glass used by the Quasar Initiative for most windows.",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "health" : 4,
+  "particleColor" : [89, 137, 138, 100],
+  "category" : "materials",
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "ehr_quasarglass.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 470
+  }
+}

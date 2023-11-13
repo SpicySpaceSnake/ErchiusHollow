@@ -1,0 +1,12 @@
+{
+  "itemName" : "ehr_quasarconcrete",
+  "inventoryIcon" : "ehr_quasarconcrete.png",
+  "category" : "block",
+  "shortdescription" : "Quasar Concrete Brick",
+  "description" : "Thick concrete bricks, a solid foundation material.",
+  "rarity" : "Common",
+  "price" : 0,
+
+  "materialId" : 37102,
+  "learnBlueprintsOnPickup" : [ "ehr_quasarconcrete" ]
+}
