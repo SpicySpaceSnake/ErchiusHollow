@@ -3,7 +3,7 @@
   "inventoryIcon" : "ehr_quasarplating.png",
   "category" : "block",
   "shortdescription" : "Quasar Plating",
-  "description" : "Thin composite wall paneling used by the Quasar Initiative. Cheap detailing, and helps hide wires.",
+  "description" : "Thin composite wall paneling. Cheap detailing, and helps hide wires.",
   "rarity" : "Common",
   "price" : 0,
   "tooltipKind" : "object",
