@@ -1,0 +1,70 @@
+{
+  "objectName" : "ehr_quasarlight",
+  "race" : "generic",
+  "colonyTags" : ["ehr_quasar","light"],
+  "category" : "light",
+  "shortdescription" : "Quasar Wall Light",
+  "description" : "A light fixture with a protruding glass pyramid in the center.",
+  "rarity" : "Common",
+  "price" : 85,
+
+  //"apexDescription" : "words",
+  //"avianDescription" : "words",
+  //"floranDescription" : "words",
+  //"glitchDescription" : "words",
+  //"humanDescription" : "words",
+  //"hylotlDescription" : "words",
+  //"novakidDescription" : "words",
+
+  "lightColor" : [143, 179, 162],
+  "lightPosition" : [0, 0],
+
+  "inventoryIcon" : "ehr_quasarlight_icon.png",
+  "orientations" : [
+    {
+      "image" : "ehr_quasarlight.png:<color>.<frame>",
+      "imagePosition" : [-3, -3],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "animationParts" : {
+        "bg" : "ehr_quasarlight.png",
+        "fg" : "ehr_quasarlight_fb.png"
+      },
+      "animationPosition" : [-3, -3],
+
+      "spaces" : [ [0, 1], [-1, 0], [0, 0], [1, 0], [0, -1] ],
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "ehr_quasarlight.png:<color>.<frame>",
+      "imagePosition" : [-3, -3],
+
+      "direction" : "right",
+
+      "animationParts" : {
+        "bg" : "ehr_quasarlight.png",
+        "fg" : "ehr_quasarlight_fb.png"
+      },
+      "animationPosition" : [-3, -3],
+
+      "spaces" : [ [0, 1], [-1, 0], [0, 0], [1, 0], [0, -1] ],
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglefgfullbright.animation",
+  "animationParts" : {
+    "bg" : "ehr_quasarlight.png",
+    "fg" : "ehr_quasarlight_fb.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+
+}
