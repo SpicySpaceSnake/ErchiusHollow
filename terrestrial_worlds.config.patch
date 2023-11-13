@@ -5,6 +5,7 @@
         "path": "/planetTypes/ehr_erchiusglitterworld",
         "value": {
             "threatRange": [5, 6],
+			"gravityRange" : [120, 120],
             "layers": {
                 "surface": {
                     "primaryRegion": ["ehr_erchiusglitterworld"],
@@ -33,7 +34,7 @@
         "op": "add",
         "path": "/planetTypes/ehr_tumormoon",
         "value": {
-			"gravityRange" : [20, 20],
+			"gravityRange" : [40, 40],
             "threatRange": [1, 1],
             "layers": {
                 "surface": {

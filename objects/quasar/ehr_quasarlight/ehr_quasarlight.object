@@ -23,7 +23,7 @@
   "orientations" : [
     {
       "image" : "ehr_quasarlight.png:<color>.<frame>",
-      "imagePosition" : [-2, -2],
+      "imagePosition" : [-3, -3],
 
       "direction" : "left",
       "flipImages" : true,
@@ -32,14 +32,14 @@
         "bg" : "ehr_quasarlight.png",
         "fg" : "ehr_quasarlight_fb.png"
       },
-      "animationPosition" : [-2, -2],
+      "animationPosition" : [-3, -3],
 
       "spaces" : [ [0, 1], [-1, 0], [0, 0], [1, 0], [0, -1] ],
       "anchors" : [ "background" ]
     },
     {
       "image" : "ehr_quasarlight.png:<color>.<frame>",
-      "imagePosition" : [-2, -2],
+      "imagePosition" : [-3, -3],
 
       "direction" : "right",
 
@@ -47,7 +47,7 @@
         "bg" : "ehr_quasarlight.png",
         "fg" : "ehr_quasarlight_fb.png"
       },
-      "animationPosition" : [-2, -2],
+      "animationPosition" : [-3, -3],
 
       "spaces" : [ [0, 1], [-1, 0], [0, 0], [1, 0], [0, -1] ],
       "anchors" : [ "background" ]
