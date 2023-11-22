@@ -6,7 +6,7 @@
   "shortdescription" : "Quasar Wall Light",
   "description" : "A light fixture with a protruding glass pyramid in the center.",
   "rarity" : "Common",
-  "price" : 85,
+  "price" : 145,
 
   //"apexDescription" : "words",
   //"avianDescription" : "words",
@@ -19,7 +19,7 @@
   "lightColor" : [143, 179, 162],
   "lightPosition" : [0, 0],
 
-  "inventoryIcon" : "ehr_quasarlight_icon.png",
+  "inventoryIcon" : "icon.png",
   "orientations" : [
     {
       "image" : "ehr_quasarlight.png:<color>.<frame>",

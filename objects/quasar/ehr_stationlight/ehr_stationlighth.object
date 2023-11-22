@@ -18,7 +18,7 @@
 
   "lightColor" : [255, 240, 185],
 
-  "inventoryIcon" : "ehr_stationlighthicon.png",
+  "inventoryIcon" : "icon_h.png",
   "orientations" : [
     {
       "image" : "ehr_stationlighth.png:<color>.<frame>",
