@@ -22,7 +22,7 @@
   "orientations" : [
     {
       "image" : "ehr_stationlighth.png:<color>.<frame>",
-      "imagePosition" : [0, -16],
+      "imagePosition" : [-16, 0],
       "direction" : "right",
 
       "spaceScan" : 0.1,
@@ -35,7 +35,7 @@
     "bg" : "ehr_stationlighth.png",
     "fg" : "ehr_stationlighth_fb.png"
   },
-  "animationPosition" : [0, -16],
+  "animationPosition" : [-16, 0],
 
   "scripts" : [ "/objects/wired/light/light.lua" ],
   "scriptDelta" : 60,
