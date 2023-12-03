@@ -4,6 +4,7 @@ is a rich, lore-centric content mod that aims to fill the gaps left by the huge 
 [url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
 
 [hr][/hr]
+[h2]Content[/h2]
 [quote]
 The universe was shaken with the return of the Ruin. In an instant, all eyes turned towards a single location, prompting individual and collective responses faster than had ever been seen since the early days of galactic expansion. Everyone - whether malicious or sympathetic - had their resolve and endurance tested in that one moment.
 And yet, no attention was paid to one backstage actor. Who would think to look at those innocuous purple crystals, always locked far away from the general public?
@@ -16,9 +17,6 @@ However, they are but a speck in the grand scheme of things. Effectively operati
 
 You stand at the brink of either apotheosis or extinction. Don't disappoint, now... There are no second chances anymore.
 [/quote]
-
-[hr][/hr]
-[h2]Content[/h2]
 Whether you're invested in this mod's interpretation of the narrative blanks left behind, or just looking to amp up your playthroughs with a healthy dose of imaginative and powerful themed gear and worlds, this mod packs something for everyone with:
 [*]2 new planet types, with unique weather
 [*]An erchius-themed race, complete with a unique ship, a visually-custom SAIL, and unique racial armors and weapons
