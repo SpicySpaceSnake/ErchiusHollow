@@ -1,0 +1,84 @@
+[h1]Erchius Outbreak 0.1.0[/h1]
+is a rich, lore-centric content mod that aims to fill the gaps left by the huge implications surrounding erchius - what it is, where it came from, and what exactly it's doing now - that were left almost completely unexplored by the base game.
+[h3]Join the Discord![/h3]
+[url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
+
+[hr][/hr]
+[quote]
+The universe was shaken with the return of the Ruin. In an instant, all eyes turned towards a single location, prompting individual and collective responses faster than had ever been seen since the early days of galactic expansion. Everyone - whether malicious or sympathetic - had their resolve and endurance tested in that one moment.
+And yet, no attention was paid to one backstage actor. Who would think to look at those innocuous purple crystals, always locked far away from the general public?
+
+All of that changes now.
+
+Fresh out of the shadows and determined to make their mark, the Quasar Initiative puts itself directly into the limelight. This underdog, merely a group of rejects from all walks of life, is now the final bastion against a nigh unstoppable universal threat. Where the morals of others would crumble at the promise of potential profits, the Quasar spread a simple but profound message: the erchius phage _can_ be stopped, and they will not stand for the heinous cover-ups of the Letheia Corporation.
+However, they are but a speck in the grand scheme of things. Effectively operating as a startup, they rely on fragmented Ancient research and a few (thankfully quite generous) sponsors. They need all the help they can get. You, my curious little crystalline defect...
+...might just be exactly what they need.
+
+You stand at the brink of either apotheosis or extinction. Don't disappoint, now... There are no second chances anymore.
+[/quote]
+
+[hr][/hr]
+[h2]Content[/h2]
+Whether you're invested in this mod's interpretation of the narrative blanks left behind, or just looking to amp up your playthroughs with a healthy dose of imaginative and powerful themed gear and worlds, this mod packs something for everyone with:
+[*]2 new planet types, with unique weather
+[*]An erchius-themed race, complete with a unique ship, a visually-custom SAIL, and unique racial armors and weapons
+[*]The "Quasar Initiative" themed faction and associated modded outpost
+[*]An expansive secondary narrative serving as a counterpart to the main Ruin questline
+[*]Many weapons and tools, and several new armor sets
+[*]Ancient, Erchius, and Quasar-themed cosmetics
+[*]Custom collection entries for the mod's unique monsters and bugs
+[*]Several new NPCs to talk to and buy from
+[*]An expansive block and object list for the aspiring or experienced builder
+[*]Mysterious new microdungeons
+[*]Challenging instance missions
+
+TODO: ADD IMAGES AND PREVIEWS
+
+[hr][/hr]
+[h2]Is this mod compatible with X?[/h2]
+TODO
+
+[b]Found a bug? Leave a comment or start a discussion![/b]
+
+[hr][/hr]
+[h2]Will there ever be cross-mod support?[/h2]
+TODO
+
+[hr][/hr]
+[h2]How often does this mod update?[/h2]
+TODO
+
+[b]CURRENT PRIMARY FOCUS(ES)[/b]
+[list]
+[*]Seed of Infection (biome) and Elder Cybersphere (planet type)
+[*]Gear up to tier 5
+[*]The first EPP tiers for the mod's hazards
+[*]More story!
+[/list]
+
+[b]CURRENT SECONDARY FOCUS(ES)[/b]
+[list]
+[*]Side quests for Quasar-themed blocks and furniture
+[*]Optional gear quests
+[/list]
+
+[b]CURRENT STATUS:[/b] in active development
+
+[i]Status last verified TODO
+Mod last updated TODO[/i]
+
+[hr][/hr]
+[h2]Credits[/h2]
+[list]
+[*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main artist, writer, and designer
+[*][b]Dyalt/Najja[/b] (@dyalt / [url=https://steamcommunity.com/profiles/76561198877267052]Dyalt[/url]): main programmer
+[/list]
+[h3]A special thanks to[/h3]
+[list]
+[*][b]All of my partners[/b], for being a bunch of absolutely amazing people
+[*][b]Najja/Dyalt, Kirisis, and many others[/b] that I've either worked with or gotten advice from, for their previous and continued support
+
+[*]and [b]YOU[/b], for taking the time to check out this mod!
+[/list]
+
+Please be sure to rate on your way out, and share this with anyone you think might like it. Happy Starbounding!
