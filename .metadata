@@ -1,11 +1,12 @@
 {
   "name" : "erchiushollow",
-  "friendlyName" : "Erchius Outbreak",
-  "version" : "0.1.0",
+  "friendlyName" : "Erchius Epidemic",
+  "version" : "1.0.0",
   "author" : "SpicySpaceSnake, Dyalt",
-  "tags" : "Armor and Clothes|Crafting and Building|Dungeons|Furniture and Objects|Mechanics|NPCs and Creatures|Planets and Environments|Quests|Ships|Species|Vehicles and Mounts|Weapons",
+  "tags" : "Planets and Environments|Armor and Clothes|Crafting and Building|Dungeons|Furniture and Objects|Mechanics|NPCs and Creatures|Quests|Ships|Species|Weapons",
   "description" : "Part race mod, part content mod, all for Starbound. Heavily erchius-themed, adding a new playable and NPC race, a themed outpost, many quests, and fun gear to play with, all wrapped up with rich lore for the erchius enthusiast.",
   "priority" : 0,
+  "requires" : ["MorePlanetInfo"],
   "includes" : [""],
   "steamContentId" : "",
   "link" : ""
