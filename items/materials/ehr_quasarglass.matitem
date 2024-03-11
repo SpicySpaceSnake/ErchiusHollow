@@ -3,7 +3,7 @@
   "inventoryIcon" : "ehr_quasarglass.png",
   "category" : "block",
   "shortdescription" : "Quasar Glass",
-  "description" : "Tinted glass used by the Quasar Initiative for most windows.",
+  "description" : "Tinted and framed glass used by the Quasar Initiative for most windows.",
   "rarity" : "Common",
   "price" : 0,
 
