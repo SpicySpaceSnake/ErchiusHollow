@@ -6,8 +6,8 @@
   "tags" : "Planets and Environments|Armor and Clothes|Crafting and Building|Dungeons|Furniture and Objects|Mechanics|NPCs and Creatures|Quests|Ships|Species|Weapons",
   "description" : "Part race mod, part content mod, all for Starbound. Heavily erchius-themed, adding a new playable and NPC race, a themed outpost, many quests, and fun gear to play with, all wrapped up with rich lore for the erchius enthusiast.",
   "priority" : 0,
-  "requires" : ["MorePlanetInfo"],
-  "includes" : [""],
+  "requires" : [],
+  "includes" : [],
   "steamContentId" : "",
   "link" : ""
 }
