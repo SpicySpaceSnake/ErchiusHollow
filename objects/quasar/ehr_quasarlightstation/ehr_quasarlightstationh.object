@@ -1,5 +1,5 @@
 {
-  "objectName" : "ehr_stationlighth",
+  "objectName" : "ehr_quasarlightstationh",
   "race" : "generic",
   "colonyTags" : ["ehr_quasar","light"],
   "category" : "light",
@@ -21,7 +21,7 @@
   "inventoryIcon" : "icon_h.png",
   "orientations" : [
     {
-      "image" : "ehr_stationlighth.png:<color>.<frame>",
+      "image" : "ehr_quasarlightstationh.png:<color>.<frame>",
       "imagePosition" : [-16, 0],
       "direction" : "right",
 
@@ -32,8 +32,8 @@
 
   "animation" : "/objects/wired/light/lighttogglefgfullbright.animation",
   "animationParts" : {
-    "bg" : "ehr_stationlighth.png",
-    "fg" : "ehr_stationlighth_fb.png"
+    "bg" : "ehr_quasarlightstationh.png",
+    "fg" : "ehr_quasarlightstationh_fb.png"
   },
   "animationPosition" : [-16, 0],
 
