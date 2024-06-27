@@ -1,3 +1,12 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/erchiushollow", "value" : [ "protectorate1", "protectorate2", "erchiushollowdiary" ] }
+    {
+        "op" : "add",
+        "path" : "/defaultCodexes/erchiushollow",
+        "value" : ["protectorate1", "protectorate2", "erchiushollowdiary"]
+    },
+    {
+        "op" : "add",
+        "path" : "/deploymentConfig/speciesStarterMechBody/erchiushollow",
+        "value" : "ehr_mechbody_erchiushollowproto"
+    }
 ]

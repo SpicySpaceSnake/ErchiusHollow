@@ -1,0 +1,7 @@
+[
+    {
+        "op" : "add",
+        "path" : "/scriptConfig/giveSpeciesBlueprints/erchiushollow",
+        "value" : ["ehr_mechbody_erchiushollow"]
+    }
+]
