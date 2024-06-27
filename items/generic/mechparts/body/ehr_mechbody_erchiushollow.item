@@ -1,0 +1,15 @@
+{
+  "itemName" : "ehr_mechbody_erchiushollow",
+  "price" : 9600,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbody",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "ehr_mechbody_erchiushollow.png",
+  "description" : "An exotic, living mech body, now able to perfectly sync with Erchius Hollow pilots.",
+  "shortdescription" : "Symbiont Mech Body",
+  "itemTags" : [ ],
+
+  "mechPart" : ["body", "ehr_erchiushollow"]
+}

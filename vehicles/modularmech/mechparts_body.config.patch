@@ -18,5 +18,27 @@
             "defaultSecondaryColors" : ["f7beac", "ff9991", "f06e75", "b7405e"],
             "animationCustom" : {}
 	    }
+    },
+    {
+        "op" : "add",
+        "path" : "/ehr_erchiushollow",
+        // Symbiont
+        "value" : {
+            "stats" : {
+                "energy" : 5,
+                "protection" : 5
+            },
+            "partParameters" : {
+                "hazardImmunities" : ["biomeradiation", "biomecold"]
+            },
+            "partImages" : {
+                "bodyFront" : "body/ehr_erchiushollow_front.png",
+                "bodyBack" : "body/ehr_erchiushollow_back.png",
+                "bodyFullbright" : "body/ehr_erchiushollow_fb.png"
+            },
+            "defaultPrimaryColors" : ["ffefd9", "f7b2ef", "ba52e4", "6b38a6"],
+            "defaultSecondaryColors" : ["f7beac", "ff9991", "f06e75", "b7405e"],
+            "animationCustom" : {}
+	    }
     }
 ]
