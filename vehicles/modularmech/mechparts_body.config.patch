@@ -1,0 +1,22 @@
+[
+    {
+        "op" : "add",
+        "path" : "/ehr_erchiushollowproto",
+        // Symbiont-00
+        "value" : {
+            "stats" : {
+                "energy" : 3,
+                "protection" : 3
+            },
+            "partParameters" : {},
+            "partImages" : {
+                "bodyFront" : "body/ehr_erchiushollowproto_front.png",
+                "bodyBack" : "body/ehr_erchiushollowproto_back.png",
+                "bodyFullbright" : "body/ehr_erchiushollowproto_fb.png"
+            },
+            "defaultPrimaryColors" : ["ffefd9", "f7b2ef", "ba52e4", "6b38a6"],
+            "defaultSecondaryColors" : ["f7beac", "ff9991", "f06e75", "b7405e"],
+            "animationCustom" : {}
+	    }
+    }
+]
