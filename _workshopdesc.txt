@@ -6,29 +6,30 @@ is a rich, lore-centric content mod that aims to fill the gaps left by the huge 
 [hr][/hr]
 [h2]Content[/h2]
 [quote]
-The universe was shaken with the return of the Ruin. In an instant, all eyes turned towards a single location, prompting individual and collective responses faster than had ever been seen since the early days of galactic expansion. Everyone - whether malicious or sympathetic - had their resolve and endurance tested in that one moment.
-And yet, no attention was paid to one backstage actor. Who would think to look at those innocuous purple crystals, always locked far away from the general public?
+The galaxy was shaken with the return of the Ruin.
+In an instant, all eyes turned towards a single location, prompting individual and collective responses faster than had ever been seen since the early days of galactic expansion. Everyone - whether malicious, sympathetic, or indifferent - had their resolve and endurance tested in that one moment, for no one was spared from its effects.
+Yet, in the ensuing rush, no attention was paid to one backstage actor, the one key factor that could've ended everything early. Who would think to even consider those innocuous purple crystals, always locked far away from the general eye?
 
-All of that changes now.
+In any case, it's too late. All of that must change now - for better, or for worse.
 
-Fresh out of the shadows and determined to make their mark, the Quasar Initiative puts itself directly into the limelight. This underdog, merely a group of rejects from all walks of life, is now the final bastion against a nigh unstoppable universal threat. Where the morals of others would crumble at the promise of potential profits, the Quasar spread a simple but profound message: the erchius phage _can_ be stopped, and they will not stand for the heinous cover-ups of the Letheia Corporation.
-However, they are but a speck in the grand scheme of things. Effectively operating as a startup, they rely on fragmented Ancient research and a few (thankfully quite generous) sponsors. They need all the help they can get. You, my curious little crystalline defect...
-...might just be exactly what they need.
+Fresh out of the shadows and determined to make their mark, the Quasar Initiative puts itself directly into the limelight. This underdog, though merely a group of rejects from the darkest corporate corners, is now the final bastion against a nigh unstoppable universal threat. Where the morals of others would crumble at the promise of astronomical profits, the Quasar spread a simple but profound message: nothing will matter if the universe is consumed by the sudden erchius epidemic. But its root, the phage, can be stopped, and the heinous cover-ups of the Letheia Corporation serve only to waste valuable time, and enshroud critical information.
+Alas, they are but a tiny speck in the grand scheme of politics, and smaller still in the uncaring universe around it all. Effectively a startup, they rely almost entirely on the fragmented and only partially-decoded research of our great ancestors - the Ancients - for leads into the origins of erchius. Beyond that, a handful of (thankfully quite generous) sponsors are their only fuel to follow these leads, most motivated only by the promise of usurping Letheia. They need all the help they can get. And you might just be exactly what they need.
 
-You stand at the brink of either apotheosis or extinction. Don't disappoint, now... There are no second chances anymore.
+You stand at the brink of either apotheosis or extinction. Don't disappoint... There are no second chances anymore.
 [/quote]
-Whether you're invested in this mod's interpretation of the narrative blanks left behind, or just looking to amp up your playthroughs with a healthy dose of imaginative and powerful themed gear and worlds, this mod packs something for everyone with:
-[*]2 new planet types, with unique weather
-[*]An erchius-themed race, complete with a unique ship, a visually-custom SAIL, and unique racial armors and weapons
+The mod's goal is to be a highly enriching experience, without being a complete departure from the base game's themes. Whether you're invested in our interpretation of the narrative blanks left behind, or just looking to amp up your playthroughs with a healthy dose of imaginative worlds and powerful gear, this mod packs something for everyone with:
+[*]An expansive secondary plot serving as a counterpart to the main Ruin questline
+[*]An erchius-themed race complete with its own ship, racially-themed mainline armors and weapons, and racial mech bodies
 [*]The "Quasar Initiative" themed faction and associated modded outpost
-[*]An expansive secondary narrative serving as a counterpart to the main Ruin questline
+[*]2 new planet types, with unique weather
 [*]Many weapons and tools, and several new armor sets
 [*]Ancient, Erchius, and Quasar-themed cosmetics
-[*]Custom collection entries for the mod's unique monsters and bugs
+[*]A custom collection for the mod's monsters and bugs
 [*]Several new NPCs to talk to and buy from
 [*]An expansive block and object list for the aspiring or experienced builder
 [*]Mysterious new microdungeons
 [*]Challenging instance missions
+[*]And a brewing danger, hiding in plain sight
 
 TODO: ADD IMAGES AND PREVIEWS
 
@@ -69,12 +70,12 @@ Mod last updated TODO[/i]
 [h2]Credits[/h2]
 [list]
 [*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main artist, writer, and designer
-[*][b]Dyalt/Najja[/b] (@dyalt / [url=https://steamcommunity.com/profiles/76561198877267052]Dyalt[/url]): main programmer
 [/list]
 [h3]A special thanks to[/h3]
 [list]
 [*][b]All of my partners[/b], for being a bunch of absolutely amazing people
-[*][b]Najja/Dyalt, Kirisis, and many others[/b] that I've either worked with or gotten advice from, for their previous and continued support
+[*][b]Najja[/b], for planetary generation prototypes and general code assistance while the project was at its youngest
+[*][b]The many wonderful people[/b] that I've either worked with or gotten advice from, for their previous and continued support
 
 [*]and [b]YOU[/b], for taking the time to check out this mod!
 [/list]
